@@ -9,13 +9,5 @@ wheels/
 # Virtual environments
 .venv
 
-# 数据文件（不入仓库）
-data/
-*.xlsx
-*.csv
-
-# 输出图表/结果（按需，可保留以便查看）
-outputs/
-
 # macOS
 .DS_Store
